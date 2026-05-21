@@ -1,0 +1,6 @@
+__pycache__/
+*.txt
+*.ckpt
+*.pt
+*.yaml
+/experiments
